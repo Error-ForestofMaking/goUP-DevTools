@@ -1,0 +1,22 @@
+C:\Users\idkai\source\repos\goUP DevTools\goUP DevTools\bin\Debug\goUP DevTools.exe.config
+C:\Users\idkai\source\repos\goUP DevTools\goUP DevTools\bin\Debug\goUP DevTools.exe
+C:\Users\idkai\source\repos\goUP DevTools\goUP DevTools\bin\Debug\goUP DevTools.pdb
+C:\Users\idkai\source\repos\goUP DevTools\goUP DevTools\obj\Debug\goUP DevTools.csproj.AssemblyReference.cache
+C:\Users\idkai\source\repos\goUP DevTools\goUP DevTools\obj\Debug\goUP DevTools.csproj.SuggestedBindingRedirects.cache
+C:\Users\idkai\source\repos\goUP DevTools\goUP DevTools\obj\Debug\goUP_DevTools.Properties.Resources.resources
+C:\Users\idkai\source\repos\goUP DevTools\goUP DevTools\obj\Debug\goUP DevTools.csproj.GenerateResource.cache
+C:\Users\idkai\source\repos\goUP DevTools\goUP DevTools\obj\Debug\goUP DevTools.csproj.CoreCompileInputs.cache
+C:\Users\idkai\source\repos\goUP DevTools\goUP DevTools\obj\Debug\goUP DevTools.exe
+C:\Users\idkai\source\repos\goUP DevTools\goUP DevTools\obj\Debug\goUP DevTools.pdb
+C:\Users\idkai\source\repos\goUP DevTools\goUP DevTools\obj\Debug\goUP_DevTools.Main.resources
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\goUP DevTools\goUP DevTools\bin\Debug\goUP DevTools.exe.config
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\goUP DevTools\goUP DevTools\bin\Debug\goUP DevTools.exe
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\goUP DevTools\goUP DevTools\bin\Debug\goUP DevTools.pdb
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\goUP DevTools\goUP DevTools\obj\Debug\goUP DevTools.csproj.AssemblyReference.cache
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\goUP DevTools\goUP DevTools\obj\Debug\goUP DevTools.csproj.SuggestedBindingRedirects.cache
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\goUP DevTools\goUP DevTools\obj\Debug\goUP_DevTools.Main.resources
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\goUP DevTools\goUP DevTools\obj\Debug\goUP_DevTools.Properties.Resources.resources
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\goUP DevTools\goUP DevTools\obj\Debug\goUP DevTools.csproj.GenerateResource.cache
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\goUP DevTools\goUP DevTools\obj\Debug\goUP DevTools.csproj.CoreCompileInputs.cache
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\goUP DevTools\goUP DevTools\obj\Debug\goUP DevTools.exe
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\goUP DevTools\goUP DevTools\obj\Debug\goUP DevTools.pdb
